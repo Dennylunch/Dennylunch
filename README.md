@@ -8,7 +8,7 @@ I'm a Computer Science student at The University of Queensland (UQ), currently l
 - 🚀 Currently building full-stack projects with Django and modern frontend technologies
 
 ## Featured Projects
-### 1. [TrainForge](https://github.com/Dennylunch/TrainForge)
+### [1. TrainForge](https://github.com/Dennylunch/TrainForge)
 A SaaS platform for personal trainers, including client management, personalized training plan creation, appointment scheduling, and progress tracking.
 
 Tech: Python, Django, HTML, CSS Bootstrap, HTMX, MySQL, RESTful API
