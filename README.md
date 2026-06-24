@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Denny 👋
+I'm a Computer Science student at The University of Queensland (UQ), currently looking for Software Engineering / Full-stack Developer internship opportunities.
 
-<!--
-**Dennylunch/Dennylunch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 🎓 CS student at UQ, based in Brisbane, Australia
+- 💻 Interested in full-stack development, web applications, and AI-integrated products
+- 🛠️ Tech stack: Python, Django, React, HTML, CSS, Bootstrap, MySQL, REST APIs, C, Javascript
+- 🚀 Currently building full-stack projects with Django and modern frontend technologies
 
-Here are some ideas to get you started:
+## Featured Projects
+### 1. TrainForge — SaaS Fitness Platform
+A SaaS platform for personal trainers, including client management, personalized training plan creation, appointment scheduling, and progress tracking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech: Python, Django, HTML, CSS Bootstrap, HTMX, MySQL, RESTful API
+
+### 2. Reversi Game Web Application
+A React-based web application implementing the classic 8x8 Reversi board game with interactive game logic and responsive UI.
+
+Tech: HTML, CSS Bootstrap, React, JavaScript
+
+## Connect with me
+- [LinkedIn](www.linkedin.com/in/denny-lanzhi-zhang)
+- Email: <zlzsyxxkb000110@outlook.com>
