@@ -16,7 +16,7 @@ Tech: Python, Django, HTML, CSS Bootstrap, HTMX, MySQL, RESTful API
 ### [2. Reversi](https://github.com/Dennylunch/Reversi)
 A React-based web application implementing the classic 8x8 Reversi board game with interactive game logic and responsive UI.
 
-Tech: HTML, CSS Bootstrap, React, JavaScript
+Tech: CSS Bootstrap, React, JavaScript
 
 ## Connect with me
 - [LinkedIn](www.linkedin.com/in/denny-lanzhi-zhang)
