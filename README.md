@@ -13,7 +13,7 @@ A SaaS platform for personal trainers, including client management, personalized
 
 Tech: Python, Django, HTML, CSS Bootstrap, HTMX, MySQL, RESTful API
 
-### 2. Reversi Game Web Application
+### [2. Reversi](https://github.com/Dennylunch/Reversi)
 A React-based web application implementing the classic 8x8 Reversi board game with interactive game logic and responsive UI.
 
 Tech: HTML, CSS Bootstrap, React, JavaScript
